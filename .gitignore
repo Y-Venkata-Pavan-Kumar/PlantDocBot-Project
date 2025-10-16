@@ -18,3 +18,6 @@ build/
 # OS generated files
 .DS_Store
 Thumbs.db
+# Python virtual environments
+Application/Backend/myenv/
+Application/Backend/.venv312/
