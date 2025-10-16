@@ -21,3 +21,7 @@ Thumbs.db
 # Python virtual environments
 Application/Backend/myenv/
 Application/Backend/.venv312/
+# Ignore large model files
+Application/Backend/plantvillage_rgb.pth
+Application/Backend/text-model/final_model/model.safetensors
+
