@@ -1,0 +1,20 @@
+# Python virtual environment
+Application/Backend/.venv312/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
