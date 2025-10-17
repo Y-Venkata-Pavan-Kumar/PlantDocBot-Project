@@ -25,3 +25,5 @@ Application/Backend/.venv312/
 Application/Backend/plantvillage_rgb.pth
 Application/Backend/text-model/final_model/model.safetensors
 
+"Application/Backend/plantvillage_rgb.pth" 
+"Application/Backend/text-model/final_model/model.safetensors" 
